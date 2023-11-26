@@ -1,0 +1,7 @@
+<JAD703_D4Y2_skinned.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAD703_D4Y2_a.dds	</Texture>
+	</property>
+</JAD703_D4Y2_skinned.mfm>

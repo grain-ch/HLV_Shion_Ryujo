@@ -1,0 +1,10 @@
+<JAB704_Yokosuka_B4Y_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAB704_Yokosuka_B4Y_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAB704_Yokosuka_B4Y_a.dds	</Texture>
+	</property>
+</JAB704_Yokosuka_B4Y_wire.mfm>

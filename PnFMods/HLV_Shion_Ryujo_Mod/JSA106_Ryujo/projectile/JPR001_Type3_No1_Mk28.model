@@ -1,0 +1,7 @@
+<JPR001_Type3_No1_Mk28.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/projectile/lods/JPR001_Type3_No1_Mk28_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/projectile/JPR001_Type3_No1_Mk28	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JPR001_Type3_No1_Mk28.model>

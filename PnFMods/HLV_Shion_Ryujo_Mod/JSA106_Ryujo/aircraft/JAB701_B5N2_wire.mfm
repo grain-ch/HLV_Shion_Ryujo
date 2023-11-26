@@ -1,0 +1,10 @@
+<JAB701_B5N2_wire.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAB701_B5N2_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAB701_B5N2_a.dds	</Texture>
+	</property>
+</JAB701_B5N2_wire.mfm>

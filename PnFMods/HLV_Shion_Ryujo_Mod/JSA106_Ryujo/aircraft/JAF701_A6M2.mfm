@@ -1,0 +1,7 @@
+<JAF701_A6M2.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAF701_A6M2_a.dds	</Texture>
+	</property>
+</JAF701_A6M2.mfm>

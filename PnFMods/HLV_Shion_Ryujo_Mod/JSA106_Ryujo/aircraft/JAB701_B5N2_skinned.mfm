@@ -1,0 +1,7 @@
+<JAB701_B5N2_skinned.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAB701_B5N2_a.dds	</Texture>
+	</property>
+</JAB701_B5N2_skinned.mfm>

@@ -1,0 +1,7 @@
+<JAF718_Mitsubishi_A5M4_skinned.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAF718_Mitsubishi_A5M4_a.dds	</Texture>
+	</property>
+</JAF718_Mitsubishi_A5M4_skinned.mfm>

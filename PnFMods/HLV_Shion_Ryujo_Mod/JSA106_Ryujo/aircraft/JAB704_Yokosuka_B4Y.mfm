@@ -1,0 +1,7 @@
+<JAB704_Yokosuka_B4Y.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAB704_Yokosuka_B4Y_a.dds	</Texture>
+	</property>
+</JAB704_Yokosuka_B4Y.mfm>

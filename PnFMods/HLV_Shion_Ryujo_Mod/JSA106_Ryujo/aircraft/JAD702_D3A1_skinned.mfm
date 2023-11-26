@@ -1,0 +1,7 @@
+<JAD702_D3A1_skinned.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAD702_D3A1_a.dds	</Texture>
+	</property>
+</JAD702_D3A1_skinned.mfm>
