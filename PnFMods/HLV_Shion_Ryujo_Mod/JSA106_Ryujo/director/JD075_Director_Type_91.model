@@ -1,7 +1,6 @@
 <JD075_Director_Type_91.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/director/lods/JD075_Director_Type_91_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/director/JD075_Director_Type_91	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/director/JD075_Director_Type_91.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JD075_Director_Type_91.model>

@@ -1,7 +1,6 @@
 <JGS009_127mm40_Type_89_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/gun/lods/JGS009_127mm40_Type_89_dead_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/gun/JGS009_127mm40_Type_89_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/gun/JGS009_127mm40_Type_89_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGS009_127mm40_Type_89_dead.model>

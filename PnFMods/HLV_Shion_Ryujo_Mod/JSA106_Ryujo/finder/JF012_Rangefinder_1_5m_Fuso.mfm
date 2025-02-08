@@ -1,5 +1,5 @@
 <JF012_Rangefinder_1_5m_Fuso.mfm>
-	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/finder/default_ao.dds	</Texture>
@@ -17,21 +17,21 @@
 		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/finder/JF012_Rangefinder_1_5m_Fuso_n.dds	</Texture>
 	</property>
 	<property>	g_detailAlbedoInfluence
-		<Float>	0.0000	</Float>
+		<Float>	0.6000	</Float>
 	</property>
 	<property>	g_detailFadeDistance
 		<Float>	3.0000	</Float>
 	</property>
 	<property>	g_detailGlossInfluence
-		<Float>	0.0000	</Float>
+		<Float>	1.0000	</Float>
 	</property>
 	<property>	g_detailNormalInfluence
-		<Float>	0.0000	</Float>
+		<Float>	0.4000	</Float>
 	</property>
 	<property>	g_detailScaleU
-		<Float>	1.0000	</Float>
+		<Float>	2.0000	</Float>
 	</property>
 	<property>	g_detailScaleV
-		<Float>	1.0000	</Float>
+		<Float>	2.0000	</Float>
 	</property>
 </JF012_Rangefinder_1_5m_Fuso.mfm>

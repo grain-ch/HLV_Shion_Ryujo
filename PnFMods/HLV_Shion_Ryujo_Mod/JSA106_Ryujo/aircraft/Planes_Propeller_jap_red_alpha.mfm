@@ -2,7 +2,7 @@
 	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/common/textures/Planes_Propeller_jap_red_alpha_a.dds	</Texture>
+		<Texture>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/Planes_Propeller_jap_red_alpha_a.dds	</Texture>
 	</property>
 	<property>	doubleSided
 		<Bool>	true	</Bool>

@@ -1,7 +1,6 @@
 <JAD702_D3A1_proto.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/lods/JAD702_D3A1_proto_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAD702_D3A1_proto	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Shion_Ryujo_Mod/JSA106_Ryujo/aircraft/JAD702_D3A1_proto.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JAD702_D3A1_proto.model>
